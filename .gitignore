@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/YourLogo/FileContentIndex
+/.vs/YourLogo/v17
+/.vs
+/YourLogo/bin/Debug
+/YourLogo/YourLogo.csproj.user
+/YourLogo/Report/dashboard.html
+/YourLogo/Report/index.html
+/YourLogo/obj/Debug
+/YourLogo/Framework/Browser/chromedriver.exe
+/YourLogo/Utils/chromedriver.exe

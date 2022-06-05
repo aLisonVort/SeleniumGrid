@@ -1,0 +1,652 @@
+13-Apr-2020-16:42:26,289 [INFO] [BeforeTets] - Test
+13-Apr-2020-16:42:29,515 [INFO] [AfterTest] - Passed
+28-Feb-2021-18:18:15,266 [INFO] [BeforeTets] - Test Set Up is done
+28-Feb-2021-18:18:18,081 [INFO] [LogInfo] - The http://demo.guru99.com/test/upload/ is opened
+28-Feb-2021-18:18:18,183 [INFO] [LogInfo] - File is attached
+28-Feb-2021-18:18:18,275 [INFO] [AfterTest] - Passed
+28-Feb-2021-18:18:18,278 [INFO] [AfterTest] - Test
+28-Feb-2021-18:18:18,278 [INFO] [AfterTest] - Tests is passed
+28-Feb-2021-18:18:18,279 [INFO] [AfterTest] -  Tear down is done
+28-Feb-2021-18:18:18,284 [INFO] [BeforeTets] - Test Set Up is done
+28-Feb-2021-18:18:19,553 [INFO] [LogInfo] - The http://demo.guru99.com/test/radio.html is opened
+28-Feb-2021-18:18:22,650 [INFO] [AfterTest] - Passed
+28-Feb-2021-18:18:22,650 [INFO] [AfterTest] - Test
+28-Feb-2021-18:18:22,651 [INFO] [AfterTest] - Tests is passed
+28-Feb-2021-18:18:22,651 [INFO] [AfterTest] -  Tear down is done
+02-Mar-2021-11:55:30,276 [INFO] [AfterTest] - Passed
+02-Mar-2021-11:55:30,331 [INFO] [AfterTest] - Test
+02-Mar-2021-11:55:30,331 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-11:55:30,332 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-11:57:51,587 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateTpTopsSubSectiob("Women","Tops")
+02-Mar-2021-11:57:51,642 [INFO] [AfterTest] - Passed
+02-Mar-2021-11:57:51,645 [INFO] [AfterTest] - Test
+02-Mar-2021-11:57:51,646 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-11:57:51,647 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-12:42:32,173 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateTpTopsSubSectiob("Women","Tops")
+02-Mar-2021-12:42:32,217 [INFO] [AfterTest] - Passed
+02-Mar-2021-12:42:32,219 [INFO] [AfterTest] - Test
+02-Mar-2021-12:42:32,220 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-12:42:32,220 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-13:38:48,304 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateTpTopsSubSectiob("Women","Tops")
+02-Mar-2021-13:38:48,348 [INFO] [AfterTest] - Passed
+02-Mar-2021-13:38:48,351 [INFO] [AfterTest] - Test
+02-Mar-2021-13:38:48,352 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-13:38:48,352 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-13:52:15,076 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateTpTopsSubSectiob("Women","Tops")
+02-Mar-2021-13:52:15,121 [INFO] [AfterTest] - Passed
+02-Mar-2021-13:52:15,125 [INFO] [AfterTest] - Test
+02-Mar-2021-13:52:15,126 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-13:52:15,126 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-13:56:11,845 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+02-Mar-2021-13:56:11,889 [INFO] [AfterTest] - Passed
+02-Mar-2021-13:56:11,892 [INFO] [AfterTest] - Test
+02-Mar-2021-13:56:11,893 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-13:56:11,894 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-13:56:17,167 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+02-Mar-2021-13:56:17,167 [INFO] [AfterTest] - Passed
+02-Mar-2021-13:56:17,168 [INFO] [AfterTest] - Test
+02-Mar-2021-13:56:17,168 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-13:56:17,168 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-14:03:27,505 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+02-Mar-2021-14:03:27,547 [INFO] [AfterTest] - Passed
+02-Mar-2021-14:03:27,549 [INFO] [AfterTest] - Test
+02-Mar-2021-14:03:27,550 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-14:03:27,550 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-14:03:35,152 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+02-Mar-2021-14:03:35,153 [INFO] [AfterTest] - Passed
+02-Mar-2021-14:03:35,153 [INFO] [AfterTest] - Test
+02-Mar-2021-14:03:35,154 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-14:03:35,154 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-14:05:33,793 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+02-Mar-2021-14:05:33,832 [INFO] [AfterTest] - Passed
+02-Mar-2021-14:05:33,834 [INFO] [AfterTest] - Test
+02-Mar-2021-14:05:33,834 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-14:05:33,835 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-14:05:38,898 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+02-Mar-2021-14:05:38,899 [INFO] [AfterTest] - Passed
+02-Mar-2021-14:05:38,899 [INFO] [AfterTest] - Test
+02-Mar-2021-14:05:38,900 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-14:05:38,900 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-14:08:50,039 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+02-Mar-2021-14:08:50,089 [INFO] [AfterTest] - Passed
+02-Mar-2021-14:08:50,091 [INFO] [AfterTest] - Test
+02-Mar-2021-14:08:50,091 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-14:08:50,091 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-14:08:57,350 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+02-Mar-2021-14:08:57,351 [INFO] [AfterTest] - Passed
+02-Mar-2021-14:08:57,351 [INFO] [AfterTest] - Test
+02-Mar-2021-14:08:57,352 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-14:08:57,352 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-14:11:09,409 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+02-Mar-2021-14:11:09,448 [INFO] [AfterTest] - Passed
+02-Mar-2021-14:11:09,449 [INFO] [AfterTest] - Test
+02-Mar-2021-14:11:09,450 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-14:11:09,450 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-14:11:15,405 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+02-Mar-2021-14:11:15,405 [INFO] [AfterTest] - Passed
+02-Mar-2021-14:11:15,406 [INFO] [AfterTest] - Test
+02-Mar-2021-14:11:15,406 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-14:11:15,407 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-14:15:16,927 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+02-Mar-2021-14:15:16,966 [INFO] [AfterTest] - Passed
+02-Mar-2021-14:15:16,970 [INFO] [AfterTest] - Test
+02-Mar-2021-14:15:16,971 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-14:15:16,971 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-14:15:24,451 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+02-Mar-2021-14:15:24,451 [INFO] [AfterTest] - Passed
+02-Mar-2021-14:15:24,452 [INFO] [AfterTest] - Test
+02-Mar-2021-14:15:24,452 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-14:15:24,453 [INFO] [AfterTest] -  Tear down is completed
+03-Mar-2021-20:51:16,357 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+03-Mar-2021-20:51:16,408 [INFO] [AfterTest] - Passed
+03-Mar-2021-20:51:16,410 [INFO] [AfterTest] - Test
+03-Mar-2021-20:51:16,410 [INFO] [AfterTest] - SectionNavigation result: passed
+03-Mar-2021-20:51:16,410 [INFO] [AfterTest] -  Tear down is completed
+03-Mar-2021-20:51:23,524 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+03-Mar-2021-20:51:23,524 [INFO] [AfterTest] - Passed
+03-Mar-2021-20:51:23,525 [INFO] [AfterTest] - Test
+03-Mar-2021-20:51:23,525 [INFO] [AfterTest] - SectionNavigation result: passed
+03-Mar-2021-20:51:23,525 [INFO] [AfterTest] -  Tear down is completed
+05-Mar-2021-09:37:39,054 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+05-Mar-2021-09:37:39,121 [INFO] [AfterTest] - Passed
+05-Mar-2021-09:37:39,124 [INFO] [AfterTest] - Test
+05-Mar-2021-09:37:39,124 [INFO] [AfterTest] - SectionNavigation result: passed
+05-Mar-2021-09:37:39,125 [INFO] [AfterTest] -  Tear down is completed
+05-Mar-2021-09:37:51,859 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+05-Mar-2021-09:37:51,860 [INFO] [AfterTest] - Passed
+05-Mar-2021-09:37:51,860 [INFO] [AfterTest] - Test
+05-Mar-2021-09:37:51,860 [INFO] [AfterTest] - SectionNavigation result: passed
+05-Mar-2021-09:37:51,861 [INFO] [AfterTest] -  Tear down is completed
+05-Mar-2021-10:24:47,010 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+05-Mar-2021-10:24:47,049 [INFO] [AfterTest] - Passed
+05-Mar-2021-10:24:47,051 [INFO] [AfterTest] - Test
+05-Mar-2021-10:24:47,051 [INFO] [AfterTest] - SectionNavigation result: passed
+05-Mar-2021-10:24:47,051 [INFO] [AfterTest] -  Tear down is completed
+05-Mar-2021-10:24:54,111 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+05-Mar-2021-10:24:54,112 [INFO] [AfterTest] - Passed
+05-Mar-2021-10:24:54,113 [INFO] [AfterTest] - Test
+05-Mar-2021-10:24:54,114 [INFO] [AfterTest] - SectionNavigation result: passed
+05-Mar-2021-10:24:54,115 [INFO] [AfterTest] -  Tear down is completed
+19-May-2021-20:25:19,844 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+19-May-2021-20:25:19,923 [INFO] [AfterTest] - Passed
+19-May-2021-20:25:19,926 [INFO] [AfterTest] - Test
+19-May-2021-20:25:19,926 [INFO] [AfterTest] - SectionNavigation result: passed
+19-May-2021-20:25:19,926 [INFO] [AfterTest] -  Tear down is completed
+19-May-2021-20:25:29,995 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+19-May-2021-20:25:29,997 [INFO] [AfterTest] - Passed
+19-May-2021-20:25:29,998 [INFO] [AfterTest] - Test
+19-May-2021-20:25:29,999 [INFO] [AfterTest] - SectionNavigation result: passed
+19-May-2021-20:25:30,000 [INFO] [AfterTest] -  Tear down is completed
+23-May-2021-22:07:02,297 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+23-May-2021-22:07:02,309 [INFO] [AfterTest] - Failed
+23-May-2021-22:07:02,312 [INFO] [AfterTest] - Test
+23-May-2021-22:07:02,313 [INFO] [AfterTest] -  Tear down is completed
+23-May-2021-22:07:40,669 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+23-May-2021-22:07:40,679 [INFO] [AfterTest] - Failed
+23-May-2021-22:07:40,682 [INFO] [AfterTest] - Test
+23-May-2021-22:07:40,682 [INFO] [AfterTest] -  Tear down is completed
+23-May-2021-22:12:47,094 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+23-May-2021-22:12:47,141 [INFO] [AfterTest] - Passed
+23-May-2021-22:12:47,144 [INFO] [AfterTest] - Test
+23-May-2021-22:12:47,144 [INFO] [AfterTest] - SectionNavigation result: passed
+23-May-2021-22:12:47,145 [INFO] [AfterTest] -  Tear down is completed
+23-May-2021-22:14:04,544 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+23-May-2021-22:14:04,585 [INFO] [AfterTest] - Passed
+23-May-2021-22:14:04,588 [INFO] [AfterTest] - Test
+23-May-2021-22:14:04,590 [INFO] [AfterTest] - SectionNavigation result: passed
+23-May-2021-22:14:04,590 [INFO] [AfterTest] -  Tear down is completed
+23-May-2021-22:14:14,951 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+23-May-2021-22:14:14,952 [INFO] [AfterTest] - Passed
+23-May-2021-22:14:14,952 [INFO] [AfterTest] - Test
+23-May-2021-22:14:14,952 [INFO] [AfterTest] - SectionNavigation result: passed
+23-May-2021-22:14:14,953 [INFO] [AfterTest] -  Tear down is completed
+23-May-2021-22:19:43,008 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+23-May-2021-22:19:43,053 [INFO] [AfterTest] - Passed
+23-May-2021-22:19:43,057 [INFO] [AfterTest] - Test
+23-May-2021-22:19:43,060 [INFO] [AfterTest] - SectionNavigation result: passed
+23-May-2021-22:19:43,061 [INFO] [AfterTest] -  Tear down is completed
+23-May-2021-22:19:52,353 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+23-May-2021-22:19:52,353 [INFO] [AfterTest] - Passed
+23-May-2021-22:19:52,354 [INFO] [AfterTest] - Test
+23-May-2021-22:19:52,355 [INFO] [AfterTest] - SectionNavigation result: passed
+23-May-2021-22:19:52,356 [INFO] [AfterTest] -  Tear down is completed
+23-May-2021-22:27:50,783 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+23-May-2021-22:27:50,832 [INFO] [AfterTest] - Passed
+23-May-2021-22:27:50,834 [INFO] [AfterTest] - Test
+23-May-2021-22:27:50,836 [INFO] [AfterTest] - SectionNavigation result: passed
+23-May-2021-22:27:50,836 [INFO] [AfterTest] -  Tear down is completed
+23-May-2021-22:27:59,570 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+23-May-2021-22:27:59,571 [INFO] [AfterTest] - Passed
+23-May-2021-22:27:59,575 [INFO] [AfterTest] - Test
+23-May-2021-22:27:59,576 [INFO] [AfterTest] - SectionNavigation result: passed
+23-May-2021-22:27:59,577 [INFO] [AfterTest] -  Tear down is completed
+23-May-2021-22:50:34,083 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+23-May-2021-22:50:34,132 [INFO] [AfterTest] - Passed
+23-May-2021-22:50:34,134 [INFO] [AfterTest] - Test
+23-May-2021-22:50:34,136 [INFO] [AfterTest] - SectionNavigation result: passed
+23-May-2021-22:50:34,141 [INFO] [AfterTest] -  Tear down is completed
+23-May-2021-22:51:03,879 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+23-May-2021-22:51:03,979 [INFO] [AfterTest] - Passed
+23-May-2021-22:51:03,983 [INFO] [AfterTest] - Test
+23-May-2021-22:51:03,984 [INFO] [AfterTest] - SectionNavigation result: passed
+23-May-2021-22:51:03,985 [INFO] [AfterTest] -  Tear down is completed
+23-May-2021-22:51:13,712 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+23-May-2021-22:51:13,716 [INFO] [AfterTest] - Passed
+23-May-2021-22:51:13,717 [INFO] [AfterTest] - Test
+23-May-2021-22:51:13,718 [INFO] [AfterTest] - SectionNavigation result: passed
+23-May-2021-22:51:13,718 [INFO] [AfterTest] -  Tear down is completed
+24-May-2021-20:18:26,138 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+24-May-2021-20:18:26,213 [INFO] [AfterTest] - Passed
+24-May-2021-20:18:26,216 [INFO] [AfterTest] - Test
+24-May-2021-20:18:26,216 [INFO] [AfterTest] - SectionNavigation result: passed
+24-May-2021-20:18:26,217 [INFO] [AfterTest] -  Tear down is completed
+24-May-2021-20:18:36,599 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+24-May-2021-20:18:36,599 [INFO] [AfterTest] - Passed
+24-May-2021-20:18:36,600 [INFO] [AfterTest] - Test
+24-May-2021-20:18:36,601 [INFO] [AfterTest] - SectionNavigation result: passed
+24-May-2021-20:18:36,601 [INFO] [AfterTest] -  Tear down is completed
+24-May-2021-21:40:34,805 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+24-May-2021-21:40:34,890 [INFO] [AfterTest] - Passed
+24-May-2021-21:40:34,892 [INFO] [AfterTest] - Test
+24-May-2021-21:40:34,893 [INFO] [AfterTest] - SectionNavigation result: passed
+24-May-2021-21:40:34,893 [INFO] [AfterTest] -  Tear down is completed
+24-May-2021-21:41:04,861 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+24-May-2021-21:41:04,960 [INFO] [AfterTest] - Passed
+24-May-2021-21:41:04,963 [INFO] [AfterTest] - Test
+24-May-2021-21:41:04,964 [INFO] [AfterTest] - SectionNavigation result: passed
+24-May-2021-21:41:04,972 [INFO] [AfterTest] -  Tear down is completed
+24-May-2021-21:41:13,411 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+24-May-2021-21:41:13,411 [INFO] [AfterTest] - Passed
+24-May-2021-21:41:13,412 [INFO] [AfterTest] - Test
+24-May-2021-21:41:13,413 [INFO] [AfterTest] - SectionNavigation result: passed
+24-May-2021-21:41:13,414 [INFO] [AfterTest] -  Tear down is completed
+24-May-2021-21:52:05,783 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+24-May-2021-21:52:05,825 [INFO] [AfterTest] - Passed
+24-May-2021-21:52:05,829 [INFO] [AfterTest] - Test
+24-May-2021-21:52:05,829 [INFO] [AfterTest] - SectionNavigation result: passed
+24-May-2021-21:52:05,830 [INFO] [AfterTest] -  Tear down is completed
+24-May-2021-21:52:37,615 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+24-May-2021-21:52:37,686 [INFO] [AfterTest] - Passed
+24-May-2021-21:52:37,690 [INFO] [AfterTest] - Test
+24-May-2021-21:52:37,691 [INFO] [AfterTest] - SectionNavigation result: passed
+24-May-2021-21:52:37,695 [INFO] [AfterTest] -  Tear down is completed
+24-May-2021-21:52:47,010 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+24-May-2021-21:52:47,011 [INFO] [AfterTest] - Passed
+24-May-2021-21:52:47,012 [INFO] [AfterTest] - Test
+24-May-2021-21:52:47,013 [INFO] [AfterTest] - SectionNavigation result: passed
+24-May-2021-21:52:47,013 [INFO] [AfterTest] -  Tear down is completed
+24-May-2021-21:56:42,834 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+24-May-2021-21:56:42,852 [INFO] [AfterTest] - Passed
+24-May-2021-21:56:42,854 [INFO] [AfterTest] - Test
+24-May-2021-21:56:42,855 [INFO] [AfterTest] - SectionNavigation result: passed
+24-May-2021-21:56:42,855 [INFO] [AfterTest] -  Tear down is completed
+24-May-2021-21:56:50,634 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+24-May-2021-21:56:50,635 [INFO] [AfterTest] - Passed
+24-May-2021-21:56:50,635 [INFO] [AfterTest] - Test
+24-May-2021-21:56:50,636 [INFO] [AfterTest] - SectionNavigation result: passed
+24-May-2021-21:56:50,636 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-18:49:40,836 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+29-May-2021-18:49:40,899 [INFO] [AfterTest] - Passed
+29-May-2021-18:49:40,901 [INFO] [AfterTest] - Test
+29-May-2021-18:49:40,902 [INFO] [AfterTest] - SectionNavigation result: passed
+29-May-2021-18:49:40,902 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-19:07:43,938 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+29-May-2021-19:07:43,974 [INFO] [AfterTest] - Failed
+29-May-2021-19:07:43,977 [INFO] [AfterTest] - Test
+29-May-2021-19:07:43,978 [ERROR] [AfterTest] - Unexpected exception occurred
+29-May-2021-19:07:43,979 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-19:16:47,954 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+29-May-2021-19:16:47,994 [INFO] [AfterTest] - Failed
+29-May-2021-19:16:47,996 [INFO] [AfterTest] - Test
+29-May-2021-19:16:47,996 [ERROR] [AfterTest] - Unexpected exception occurred
+29-May-2021-19:16:47,997 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-19:21:36,570 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+29-May-2021-19:21:36,640 [INFO] [AfterTest] - Passed
+29-May-2021-19:21:36,645 [INFO] [AfterTest] - Test
+29-May-2021-19:21:36,646 [INFO] [AfterTest] - SectionNavigation result: passed
+29-May-2021-19:21:36,647 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-19:55:18,824 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+29-May-2021-19:55:18,873 [INFO] [AfterTest] - Passed
+29-May-2021-19:55:18,875 [INFO] [AfterTest] - Test
+29-May-2021-19:55:18,876 [INFO] [AfterTest] - SectionNavigation result: passed
+29-May-2021-19:55:18,876 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-19:55:53,590 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+29-May-2021-19:55:53,632 [INFO] [AfterTest] - Passed
+29-May-2021-19:55:53,634 [INFO] [AfterTest] - Test
+29-May-2021-19:55:53,634 [INFO] [AfterTest] - SectionNavigation result: passed
+29-May-2021-19:55:53,635 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-19:58:08,000 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+29-May-2021-19:58:08,053 [INFO] [AfterTest] - Passed
+29-May-2021-19:58:08,055 [INFO] [AfterTest] - Test
+29-May-2021-19:58:08,056 [INFO] [AfterTest] - SectionNavigation result: passed
+29-May-2021-19:58:08,057 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-19:58:54,668 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-May-2021-19:58:54,712 [INFO] [AfterTest] - Passed
+29-May-2021-19:58:54,715 [INFO] [AfterTest] - Test
+29-May-2021-19:58:54,715 [INFO] [AfterTest] - SectionNavigation result: passed
+29-May-2021-19:58:54,716 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-19:59:37,277 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+29-May-2021-19:59:37,324 [INFO] [AfterTest] - Passed
+29-May-2021-19:59:37,327 [INFO] [AfterTest] - Test
+29-May-2021-19:59:37,328 [INFO] [AfterTest] - SectionNavigation result: passed
+29-May-2021-19:59:37,328 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-19:59:50,006 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-May-2021-19:59:50,006 [INFO] [AfterTest] - Passed
+29-May-2021-19:59:50,007 [INFO] [AfterTest] - Test
+29-May-2021-19:59:50,007 [INFO] [AfterTest] - SectionNavigation result: passed
+29-May-2021-19:59:50,008 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-20:03:36,423 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+29-May-2021-20:03:36,475 [INFO] [AfterTest] - Passed
+29-May-2021-20:03:36,479 [INFO] [AfterTest] - Test
+29-May-2021-20:03:36,479 [INFO] [AfterTest] - SectionNavigation result: passed
+29-May-2021-20:03:36,480 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-20:03:43,235 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-May-2021-20:03:43,236 [INFO] [AfterTest] - Passed
+29-May-2021-20:03:43,236 [INFO] [AfterTest] - Test
+29-May-2021-20:03:43,237 [INFO] [AfterTest] - SectionNavigation result: passed
+29-May-2021-20:03:43,237 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-20:04:57,093 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+29-May-2021-20:04:57,102 [INFO] [AfterTest] - Failed
+29-May-2021-20:04:57,104 [INFO] [AfterTest] - Test
+29-May-2021-20:04:57,105 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-20:05:07,638 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-May-2021-20:05:07,639 [INFO] [AfterTest] - Passed
+29-May-2021-20:05:07,639 [INFO] [AfterTest] - Test
+29-May-2021-20:05:07,641 [INFO] [AfterTest] - SectionNavigation result: passed
+29-May-2021-20:05:07,641 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-20:23:28,818 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+29-May-2021-20:23:28,903 [INFO] [AfterTest] - Passed
+29-May-2021-20:23:28,906 [INFO] [AfterTest] - Test
+29-May-2021-20:23:28,907 [INFO] [AfterTest] - SectionNavigation result: passed
+29-May-2021-20:23:28,907 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-20:23:35,244 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-May-2021-20:23:35,244 [INFO] [AfterTest] - Passed
+29-May-2021-20:23:35,245 [INFO] [AfterTest] - Test
+29-May-2021-20:23:35,245 [INFO] [AfterTest] - SectionNavigation result: passed
+29-May-2021-20:23:35,245 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-20:28:14,849 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+29-May-2021-20:28:14,891 [INFO] [AfterTest] - Passed
+29-May-2021-20:28:14,893 [INFO] [AfterTest] - Test
+29-May-2021-20:28:14,893 [INFO] [AfterTest] - SectionNavigation result: passed
+29-May-2021-20:28:14,894 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-20:28:21,485 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-May-2021-20:28:21,486 [INFO] [AfterTest] - Passed
+29-May-2021-20:28:21,487 [INFO] [AfterTest] - Test
+29-May-2021-20:28:21,487 [INFO] [AfterTest] - SectionNavigation result: passed
+29-May-2021-20:28:21,487 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-20:31:19,800 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+29-May-2021-20:31:19,843 [INFO] [AfterTest] - Passed
+29-May-2021-20:31:19,845 [INFO] [AfterTest] - Test
+29-May-2021-20:31:19,846 [INFO] [AfterTest] - SectionNavigation result: passed
+29-May-2021-20:31:19,846 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-20:31:26,255 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-May-2021-20:31:26,256 [INFO] [AfterTest] - Passed
+29-May-2021-20:31:26,256 [INFO] [AfterTest] - Test
+29-May-2021-20:31:26,257 [INFO] [AfterTest] - SectionNavigation result: passed
+29-May-2021-20:31:26,257 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-20:33:50,537 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+29-May-2021-20:33:50,596 [INFO] [AfterTest] - Passed
+29-May-2021-20:33:50,598 [INFO] [AfterTest] - Test
+29-May-2021-20:33:50,599 [INFO] [AfterTest] - SectionNavigation result: passed
+29-May-2021-20:33:50,599 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-20:34:09,293 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-May-2021-20:34:09,294 [INFO] [AfterTest] - Failed
+29-May-2021-20:34:09,295 [INFO] [AfterTest] - Test
+29-May-2021-20:34:09,295 [ERROR] [AfterTest] - Unexpected exception occurred
+29-May-2021-20:34:09,296 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-20:38:29,358 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-May-2021-20:38:29,378 [INFO] [AfterTest] - Failed
+29-May-2021-20:38:29,380 [INFO] [AfterTest] - Test
+29-May-2021-20:38:29,380 [ERROR] [AfterTest] - Unexpected exception occurred
+29-May-2021-20:38:29,381 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-20:44:40,858 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-May-2021-20:44:40,886 [INFO] [AfterTest] - Failed
+29-May-2021-20:44:40,890 [INFO] [AfterTest] - Test
+29-May-2021-20:44:40,891 [ERROR] [AfterTest] - Unexpected exception occurred
+29-May-2021-20:44:40,892 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-20:47:38,712 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-May-2021-20:47:38,737 [INFO] [AfterTest] - Failed
+29-May-2021-20:47:38,740 [INFO] [AfterTest] - Test
+29-May-2021-20:47:38,740 [ERROR] [AfterTest] - Unexpected exception occurred
+29-May-2021-20:47:38,741 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-20:50:05,593 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+29-May-2021-20:50:05,634 [INFO] [AfterTest] - Passed
+29-May-2021-20:50:05,636 [INFO] [AfterTest] - Test
+29-May-2021-20:50:05,636 [INFO] [AfterTest] - SectionNavigation result: passed
+29-May-2021-20:50:05,637 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-20:50:22,008 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-May-2021-20:50:22,009 [INFO] [AfterTest] - Failed
+29-May-2021-20:50:22,009 [INFO] [AfterTest] - Test
+29-May-2021-20:50:22,010 [ERROR] [AfterTest] - Unexpected exception occurred
+29-May-2021-20:50:22,011 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-20:51:48,600 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+29-May-2021-20:51:48,660 [INFO] [AfterTest] - Passed
+29-May-2021-20:51:48,662 [INFO] [AfterTest] - Test
+29-May-2021-20:51:48,663 [INFO] [AfterTest] - SectionNavigation result: passed
+29-May-2021-20:51:48,663 [INFO] [AfterTest] -  Tear down is completed
+29-May-2021-20:52:05,010 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-May-2021-20:52:05,011 [INFO] [AfterTest] - Failed
+29-May-2021-20:52:05,011 [INFO] [AfterTest] - Test
+29-May-2021-20:52:05,012 [ERROR] [AfterTest] - Unexpected exception occurred
+29-May-2021-20:52:05,012 [INFO] [AfterTest] -  Tear down is completed
+07-Jun-2021-19:09:09,526 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+07-Jun-2021-19:09:09,756 [INFO] [AfterTest] - Passed
+07-Jun-2021-19:09:09,760 [INFO] [AfterTest] - Test
+07-Jun-2021-19:09:09,761 [INFO] [AfterTest] - SectionNavigation result: passed
+07-Jun-2021-19:09:09,763 [INFO] [AfterTest] -  Tear down is completed
+07-Jun-2021-19:09:28,672 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+07-Jun-2021-19:09:28,673 [INFO] [AfterTest] - Failed
+07-Jun-2021-19:09:28,674 [INFO] [AfterTest] - Test
+07-Jun-2021-19:09:28,674 [ERROR] [AfterTest] - Unexpected exception occurred
+07-Jun-2021-19:09:28,674 [INFO] [AfterTest] -  Tear down is completed
+07-Jun-2021-19:10:34,517 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+07-Jun-2021-19:10:34,566 [INFO] [AfterTest] - Passed
+07-Jun-2021-19:10:34,568 [INFO] [AfterTest] - Test
+07-Jun-2021-19:10:34,569 [INFO] [AfterTest] - SectionNavigation result: passed
+07-Jun-2021-19:10:34,570 [INFO] [AfterTest] -  Tear down is completed
+08-Jun-2021-10:45:32,507 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+08-Jun-2021-10:45:32,567 [INFO] [AfterTest] - Passed
+08-Jun-2021-10:45:32,569 [INFO] [AfterTest] - Test
+08-Jun-2021-10:45:32,569 [INFO] [AfterTest] - SectionNavigation result: passed
+08-Jun-2021-10:45:32,570 [INFO] [AfterTest] -  Tear down is completed
+08-Jun-2021-10:45:50,779 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+08-Jun-2021-10:45:50,780 [INFO] [AfterTest] - Failed
+08-Jun-2021-10:45:50,781 [INFO] [AfterTest] - Test
+08-Jun-2021-10:45:50,784 [ERROR] [AfterTest] - Unexpected exception occurred
+08-Jun-2021-10:45:50,785 [INFO] [AfterTest] -  Tear down is completed
+08-Jun-2021-11:24:00,682 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+08-Jun-2021-11:24:00,729 [INFO] [AfterTest] - Passed
+08-Jun-2021-11:24:00,732 [INFO] [AfterTest] - Test
+08-Jun-2021-11:24:00,732 [INFO] [AfterTest] - SectionNavigation result: passed
+08-Jun-2021-11:24:00,733 [INFO] [AfterTest] -  Tear down is completed
+08-Jun-2021-11:24:42,452 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+08-Jun-2021-11:24:42,452 [INFO] [AfterTest] - Failed
+08-Jun-2021-11:24:42,453 [INFO] [AfterTest] - Test
+08-Jun-2021-11:24:42,453 [ERROR] [AfterTest] - Unexpected exception occurred
+08-Jun-2021-11:24:42,454 [INFO] [AfterTest] -  Tear down is completed
+23-Jul-2021-10:59:38,994 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+23-Jul-2021-10:59:39,035 [INFO] [AfterTest] - Passed
+23-Jul-2021-10:59:39,037 [INFO] [AfterTest] - Test
+23-Jul-2021-10:59:39,038 [INFO] [AfterTest] - SectionNavigation result: passed
+23-Jul-2021-10:59:39,039 [INFO] [AfterTest] -  Tear down is completed
+23-Jul-2021-11:01:31,786 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+23-Jul-2021-11:01:31,826 [INFO] [AfterTest] - Passed
+23-Jul-2021-11:01:31,829 [INFO] [AfterTest] - Test
+23-Jul-2021-11:01:31,830 [INFO] [AfterTest] - SectionNavigation result: passed
+23-Jul-2021-11:01:31,830 [INFO] [AfterTest] -  Tear down is completed
+23-Jul-2021-11:01:50,406 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+23-Jul-2021-11:01:50,406 [INFO] [AfterTest] - Failed
+23-Jul-2021-11:01:50,407 [INFO] [AfterTest] - Test
+23-Jul-2021-11:01:50,407 [ERROR] [AfterTest] - Unexpected exception occurred
+23-Jul-2021-11:01:50,408 [INFO] [AfterTest] -  Tear down is completed
+23-Jul-2021-11:02:24,852 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+23-Jul-2021-11:02:24,893 [INFO] [AfterTest] - Passed
+23-Jul-2021-11:02:24,895 [INFO] [AfterTest] - Test
+23-Jul-2021-11:02:24,895 [INFO] [AfterTest] - SectionNavigation result: passed
+23-Jul-2021-11:02:24,896 [INFO] [AfterTest] -  Tear down is completed
+23-Jul-2021-11:02:51,491 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+23-Jul-2021-11:02:51,491 [INFO] [AfterTest] - Failed
+23-Jul-2021-11:02:51,492 [INFO] [AfterTest] - Test
+23-Jul-2021-11:02:51,492 [ERROR] [AfterTest] - Unexpected exception occurred
+23-Jul-2021-11:02:51,493 [INFO] [AfterTest] -  Tear down is completed
+23-Jul-2021-11:06:00,036 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+23-Jul-2021-11:06:00,089 [INFO] [AfterTest] - Passed
+23-Jul-2021-11:06:00,091 [INFO] [AfterTest] - Test
+23-Jul-2021-11:06:00,092 [INFO] [AfterTest] - SectionNavigation result: passed
+23-Jul-2021-11:06:00,092 [INFO] [AfterTest] -  Tear down is completed
+23-Jul-2021-11:06:19,827 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+23-Jul-2021-11:06:19,828 [INFO] [AfterTest] - Failed
+23-Jul-2021-11:06:19,828 [INFO] [AfterTest] - Test
+23-Jul-2021-11:06:19,829 [ERROR] [AfterTest] - Unexpected exception occurred
+23-Jul-2021-11:06:19,829 [INFO] [AfterTest] -  Tear down is completed
+28-Jul-2021-15:47:02,068 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+28-Jul-2021-15:47:02,125 [INFO] [AfterTest] - Passed
+28-Jul-2021-15:47:02,128 [INFO] [AfterTest] - Test
+28-Jul-2021-15:47:02,129 [INFO] [AfterTest] - SectionNavigation result: passed
+28-Jul-2021-15:47:02,129 [INFO] [AfterTest] -  Tear down is completed
+28-Jul-2021-15:47:02,130 [INFO] [AfterTest] - ---------------------------------------------------------
+28-Jul-2021-15:47:53,825 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+28-Jul-2021-15:47:53,864 [INFO] [AfterTest] - Passed
+28-Jul-2021-15:47:53,866 [INFO] [AfterTest] - Test
+28-Jul-2021-15:47:53,867 [INFO] [AfterTest] - SectionNavigation result: passed
+28-Jul-2021-15:47:53,867 [INFO] [AfterTest] -  Tear down is completed
+28-Jul-2021-15:47:53,867 [INFO] [AfterTest] - ---------------------------------------------------------
+28-Jul-2021-15:48:31,559 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+28-Jul-2021-15:48:31,559 [INFO] [AfterTest] - Failed
+28-Jul-2021-15:48:31,560 [INFO] [AfterTest] - Test
+28-Jul-2021-15:48:31,561 [ERROR] [AfterTest] - Unexpected exception occurred
+28-Jul-2021-15:48:31,561 [INFO] [AfterTest] -  Tear down is completed
+28-Jul-2021-15:48:31,562 [INFO] [AfterTest] - ---------------------------------------------------------
+29-Jul-2021-15:15:03,937 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+29-Jul-2021-15:15:03,977 [INFO] [AfterTest] - Passed
+29-Jul-2021-15:15:03,980 [INFO] [AfterTest] - Test
+29-Jul-2021-15:15:03,981 [INFO] [AfterTest] - SectionNavigation result: passed
+29-Jul-2021-15:15:03,982 [INFO] [AfterTest] -  Tear down is completed
+29-Jul-2021-15:15:03,982 [INFO] [AfterTest] - ---------------------------------------------------------
+29-Jul-2021-15:15:43,213 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-Jul-2021-15:15:43,213 [INFO] [AfterTest] - Failed
+29-Jul-2021-15:15:43,214 [INFO] [AfterTest] - Test
+29-Jul-2021-15:15:43,214 [ERROR] [AfterTest] - Unexpected exception occurred
+29-Jul-2021-15:15:43,215 [INFO] [AfterTest] -  Tear down is completed
+29-Jul-2021-15:15:43,216 [INFO] [AfterTest] - ---------------------------------------------------------
+29-Jul-2021-15:27:00,553 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+29-Jul-2021-15:27:00,591 [INFO] [AfterTest] - Passed
+29-Jul-2021-15:27:00,594 [INFO] [AfterTest] - Test
+29-Jul-2021-15:27:00,595 [INFO] [AfterTest] - SectionNavigation result: passed
+29-Jul-2021-15:27:00,596 [INFO] [AfterTest] -  Tear down is completed
+29-Jul-2021-15:27:00,596 [INFO] [AfterTest] - ---------------------------------------------------------
+29-Jul-2021-15:28:11,956 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-Jul-2021-15:28:11,974 [INFO] [AfterTest] - Failed
+29-Jul-2021-15:28:11,976 [INFO] [AfterTest] - Test
+29-Jul-2021-15:28:11,977 [ERROR] [AfterTest] - Unexpected exception occurred
+29-Jul-2021-15:28:11,977 [INFO] [AfterTest] -  Tear down is completed
+29-Jul-2021-15:28:11,977 [INFO] [AfterTest] - ---------------------------------------------------------
+29-Jul-2021-15:32:03,410 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-Jul-2021-15:32:03,429 [INFO] [AfterTest] - Failed
+29-Jul-2021-15:32:03,432 [INFO] [AfterTest] - Test
+29-Jul-2021-15:32:03,433 [ERROR] [AfterTest] - Unexpected exception occurred
+29-Jul-2021-15:32:03,434 [INFO] [AfterTest] -  Tear down is completed
+29-Jul-2021-15:32:03,434 [INFO] [AfterTest] - ---------------------------------------------------------
+29-Jul-2021-15:32:40,604 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation+Test.NavigateToDressesSubSection("Women","Dresses")
+29-Jul-2021-15:32:40,606 [INFO] [AfterTest] - Passed
+29-Jul-2021-15:32:40,607 [INFO] [AfterTest] - Test
+29-Jul-2021-15:32:40,607 [INFO] [AfterTest] - SectionNavigation+Test result: passed
+29-Jul-2021-15:32:40,608 [INFO] [AfterTest] -  Tear down is completed
+29-Jul-2021-15:32:40,609 [INFO] [AfterTest] - ---------------------------------------------------------
+29-Jul-2021-15:36:25,620 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-Jul-2021-15:36:25,642 [INFO] [AfterTest] - Failed
+29-Jul-2021-15:36:25,645 [INFO] [AfterTest] - Test
+29-Jul-2021-15:36:25,646 [ERROR] [AfterTest] - Unexpected exception occurred
+29-Jul-2021-15:36:25,647 [INFO] [AfterTest] -  Tear down is completed
+29-Jul-2021-15:36:25,647 [INFO] [AfterTest] - ---------------------------------------------------------
+29-Jul-2021-15:37:06,254 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation+Test.NavigateToDressesSubSection("Women","Dresses")
+29-Jul-2021-15:37:06,256 [INFO] [AfterTest] - Passed
+29-Jul-2021-15:37:06,257 [INFO] [AfterTest] - Test
+29-Jul-2021-15:37:06,259 [INFO] [AfterTest] - SectionNavigation+Test result: passed
+29-Jul-2021-15:37:06,260 [INFO] [AfterTest] -  Tear down is completed
+29-Jul-2021-15:37:06,261 [INFO] [AfterTest] - ---------------------------------------------------------
+29-Jul-2021-16:32:54,963 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-Jul-2021-16:32:54,984 [INFO] [AfterTest] - Failed
+29-Jul-2021-16:32:54,993 [INFO] [AfterTest] - Test
+29-Jul-2021-16:32:54,994 [ERROR] [AfterTest] - Unexpected exception occurred
+29-Jul-2021-16:32:54,994 [INFO] [AfterTest] -  Tear down is completed
+29-Jul-2021-16:32:54,995 [INFO] [AfterTest] - ---------------------------------------------------------
+29-Jul-2021-16:33:35,972 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation+Test.NavigateToDressesSubSection("Women","Dresses")
+29-Jul-2021-16:33:35,974 [INFO] [AfterTest] - Passed
+29-Jul-2021-16:33:35,975 [INFO] [AfterTest] - Test
+29-Jul-2021-16:33:35,976 [INFO] [AfterTest] - SectionNavigation+Test result: passed
+29-Jul-2021-16:33:35,977 [INFO] [AfterTest] -  Tear down is completed
+29-Jul-2021-16:33:35,977 [INFO] [AfterTest] - ---------------------------------------------------------
+29-Jul-2021-16:37:21,106 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-Jul-2021-16:37:21,126 [INFO] [AfterTest] - Failed
+29-Jul-2021-16:37:21,128 [INFO] [AfterTest] - Test
+29-Jul-2021-16:37:21,129 [ERROR] [AfterTest] - Unexpected exception occurred
+29-Jul-2021-16:37:21,130 [INFO] [AfterTest] -  Tear down is completed
+29-Jul-2021-16:37:21,131 [INFO] [AfterTest] - ---------------------------------------------------------
+29-Jul-2021-16:38:02,163 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation+Test.NavigateToDressesSubSection("Women","Dresses")
+29-Jul-2021-16:38:02,164 [INFO] [AfterTest] - Passed
+29-Jul-2021-16:38:02,165 [INFO] [AfterTest] - Test
+29-Jul-2021-16:38:02,166 [INFO] [AfterTest] - SectionNavigation+Test result: passed
+29-Jul-2021-16:38:02,167 [INFO] [AfterTest] -  Tear down is completed
+29-Jul-2021-16:38:02,168 [INFO] [AfterTest] - ---------------------------------------------------------
+29-Jul-2021-16:48:23,285 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-Jul-2021-16:48:23,347 [INFO] [AfterTest] - Failed
+29-Jul-2021-16:48:23,349 [INFO] [AfterTest] - Test
+29-Jul-2021-16:48:23,350 [ERROR] [AfterTest] - Unexpected exception occurred
+29-Jul-2021-16:48:23,350 [INFO] [AfterTest] -  Tear down is completed
+29-Jul-2021-16:48:23,351 [INFO] [AfterTest] - ---------------------------------------------------------
+29-Jul-2021-16:50:00,236 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-Jul-2021-16:50:00,457 [INFO] [AfterTest] - Failed
+29-Jul-2021-16:50:00,466 [INFO] [AfterTest] - Test
+29-Jul-2021-16:50:00,467 [ERROR] [AfterTest] - Unexpected exception occurred
+29-Jul-2021-16:50:00,468 [INFO] [AfterTest] -  Tear down is completed
+29-Jul-2021-16:50:00,468 [INFO] [AfterTest] - ---------------------------------------------------------
+29-Jul-2021-16:51:03,465 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-Jul-2021-16:51:03,483 [INFO] [AfterTest] - Failed
+29-Jul-2021-16:51:03,485 [INFO] [AfterTest] - Test
+29-Jul-2021-16:51:03,486 [ERROR] [AfterTest] - Unexpected exception occurred
+29-Jul-2021-16:51:03,487 [INFO] [AfterTest] -  Tear down is completed
+29-Jul-2021-16:51:03,487 [INFO] [AfterTest] - ---------------------------------------------------------
+29-Jul-2021-16:51:42,419 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation+Test.NavigateToDressesSubSection("Women","Dresses")
+29-Jul-2021-16:51:42,420 [INFO] [AfterTest] - Passed
+29-Jul-2021-16:51:42,421 [INFO] [AfterTest] - Test
+29-Jul-2021-16:51:42,422 [INFO] [AfterTest] - SectionNavigation+Test result: passed
+29-Jul-2021-16:51:42,424 [INFO] [AfterTest] -  Tear down is completed
+29-Jul-2021-16:51:42,428 [INFO] [AfterTest] - ---------------------------------------------------------
+29-Jul-2021-17:11:41,108 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+29-Jul-2021-17:11:41,126 [INFO] [AfterTest] - Failed
+29-Jul-2021-17:11:41,128 [INFO] [AfterTest] - Test
+29-Jul-2021-17:11:41,129 [ERROR] [AfterTest] - Unexpected exception occurred
+29-Jul-2021-17:11:41,129 [INFO] [AfterTest] -  Tear down is completed
+29-Jul-2021-17:11:41,130 [INFO] [AfterTest] - ---------------------------------------------------------
+29-Jul-2021-17:12:15,109 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation+Test.NavigateToDressesSubSection("Women","Dresses")
+29-Jul-2021-17:12:15,111 [INFO] [AfterTest] - Passed
+29-Jul-2021-17:12:15,112 [INFO] [AfterTest] - Test
+29-Jul-2021-17:12:15,113 [INFO] [AfterTest] - SectionNavigation+Test result: passed
+29-Jul-2021-17:12:15,114 [INFO] [AfterTest] -  Tear down is completed
+29-Jul-2021-17:12:15,115 [INFO] [AfterTest] - ---------------------------------------------------------
+30-Jul-2021-11:05:28,633 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+30-Jul-2021-11:05:28,651 [INFO] [AfterTest] - Failed
+30-Jul-2021-11:05:28,653 [INFO] [AfterTest] - Test
+30-Jul-2021-11:05:28,654 [ERROR] [AfterTest] - Unexpected exception occurred
+30-Jul-2021-11:05:28,654 [INFO] [AfterTest] -  Tear down is completed
+30-Jul-2021-11:05:28,654 [INFO] [AfterTest] - ---------------------------------------------------------
+30-Jul-2021-11:06:37,636 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+30-Jul-2021-11:06:37,654 [INFO] [AfterTest] - Failed
+30-Jul-2021-11:06:37,656 [INFO] [AfterTest] - Test
+30-Jul-2021-11:06:37,656 [ERROR] [AfterTest] - Unexpected exception occurred
+30-Jul-2021-11:06:37,657 [INFO] [AfterTest] -  Tear down is completed
+30-Jul-2021-11:06:37,657 [INFO] [AfterTest] - ---------------------------------------------------------
+30-Jul-2021-11:07:04,325 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation+Test.NavigateToDressesSubSection("Women","Dresses")
+30-Jul-2021-11:07:04,326 [INFO] [AfterTest] - Passed
+30-Jul-2021-11:07:04,327 [INFO] [AfterTest] - Test
+30-Jul-2021-11:07:04,328 [INFO] [AfterTest] - NavigateToDressesSubSection("Women","Dresses") result: passed
+30-Jul-2021-11:07:04,329 [INFO] [AfterTest] -  Tear down is completed
+30-Jul-2021-11:07:04,329 [INFO] [AfterTest] - ---------------------------------------------------------
+30-Jul-2021-11:08:49,314 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+30-Jul-2021-11:08:49,337 [INFO] [AfterTest] - Failed
+30-Jul-2021-11:08:49,339 [INFO] [AfterTest] - Test
+30-Jul-2021-11:08:49,343 [ERROR] [AfterTest] - Unexpected exception occurred
+30-Jul-2021-11:08:49,344 [INFO] [AfterTest] -  Tear down is completed
+30-Jul-2021-11:08:49,345 [INFO] [AfterTest] - ---------------------------------------------------------
+30-Jul-2021-11:09:11,591 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation+Test.NavigateToDressesSubSection("Women","Dresses")
+30-Jul-2021-11:09:11,592 [INFO] [AfterTest] - Passed
+30-Jul-2021-11:09:11,594 [INFO] [AfterTest] - Test
+30-Jul-2021-11:09:11,602 [INFO] [AfterTest] - SectionNavigation+Test result: passed
+30-Jul-2021-11:09:11,603 [INFO] [AfterTest] -  Tear down is completed
+30-Jul-2021-11:09:11,605 [INFO] [AfterTest] - ---------------------------------------------------------
+30-Jul-2021-11:11:00,251 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+30-Jul-2021-11:11:00,268 [INFO] [AfterTest] - Failed
+30-Jul-2021-11:11:00,270 [INFO] [AfterTest] - Test
+30-Jul-2021-11:11:00,271 [ERROR] [AfterTest] - Unexpected exception occurred
+30-Jul-2021-11:11:00,271 [INFO] [AfterTest] -  Tear down is completed
+30-Jul-2021-11:11:00,272 [INFO] [AfterTest] - ---------------------------------------------------------
+30-Jul-2021-11:11:16,335 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation+Test.NavigateToDressesSubSection("Women","Dresses")
+30-Jul-2021-11:11:16,336 [INFO] [AfterTest] - Passed
+30-Jul-2021-11:11:16,337 [INFO] [AfterTest] - Test
+30-Jul-2021-11:11:16,339 [INFO] [AfterTest] - SectionNavigation+Test result: passed
+30-Jul-2021-11:11:16,340 [INFO] [AfterTest] -  Tear down is completed
+30-Jul-2021-11:11:16,341 [INFO] [AfterTest] - ---------------------------------------------------------
+30-Jul-2021-11:12:42,069 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+30-Jul-2021-11:12:42,128 [INFO] [AfterTest] - Failed
+30-Jul-2021-11:12:42,131 [INFO] [AfterTest] - Test
+30-Jul-2021-11:12:42,131 [ERROR] [AfterTest] - Unexpected exception occurred
+30-Jul-2021-11:12:42,132 [INFO] [AfterTest] -  Tear down is completed
+30-Jul-2021-11:12:42,133 [INFO] [AfterTest] - ---------------------------------------------------------
+30-Jul-2021-11:18:06,442 [INFO] [GetTestName] - YourLogo.Tests.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+30-Jul-2021-11:18:06,462 [INFO] [AfterTest] - Failed
+30-Jul-2021-11:18:06,467 [INFO] [AfterTest] - Test
+30-Jul-2021-11:18:06,469 [ERROR] [AfterTest] - Unexpected exception occurred
+30-Jul-2021-11:18:06,470 [INFO] [AfterTest] -  Tear down is completed
+30-Jul-2021-11:18:06,471 [INFO] [AfterTest] - ---------------------------------------------------------
+30-Jul-2021-11:18:19,834 [INFO] [GetTestName] - YourLogo.Tests.UI.SectionNavigation+Test.NavigateToDressesSubSection("Women","Dresses")
+30-Jul-2021-11:18:19,835 [INFO] [AfterTest] - Passed
+30-Jul-2021-11:18:19,836 [INFO] [AfterTest] - Test
+30-Jul-2021-11:18:19,837 [INFO] [AfterTest] - SectionNavigation+Test result: passed
+30-Jul-2021-11:18:19,839 [INFO] [AfterTest] -  Tear down is completed
+30-Jul-2021-11:18:19,840 [INFO] [AfterTest] - ---------------------------------------------------------
+30-Jul-2021-16:20:27,144 [INFO] [LogInfo] - System.Collections.Generic.Dictionary`2+KeyCollection[System.String,System.String]
+30-Jul-2021-16:31:21,101 [INFO] [LogInfo] - No such property: driver
+30-Jul-2021-16:32:10,168 [INFO] [LogInfo] - driver is set to:CH
+03-Aug-2021-16:57:50,999 [INFO] [LogInfo] - driver is set to:CH
+03-Aug-2021-16:57:52,964 [INFO] [LogInfo] - driver is set to:CH
